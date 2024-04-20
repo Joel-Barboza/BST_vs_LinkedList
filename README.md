@@ -1,6 +1,6 @@
-Las mediciones de tiempo se llevaron a cabo usando el método System.nanoTime()
-Los datos se muestran en nanosegundos.
-El siguiente código muestra la forma en la que se midieron los tiempos
+* Las mediciones de tiempo se llevaron a cabo usando el método System.nanoTime().
+* Los datos se muestran en nanosegundos.
+* El siguiente código muestra la forma en la que se midieron los tiempos:
 ~~~java
 long startTime = System.nanoTime();
 
